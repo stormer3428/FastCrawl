@@ -1,0 +1,9 @@
+name: FastCrawl
+author: stormer3428
+version : 0.0.1
+main: fr.stormer3428.fastcrawl.FC
+api-version: 1.13
+commands:
+  FastCrawl:
+    permission: fastcrawl.use
+  
