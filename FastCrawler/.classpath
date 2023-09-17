@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/oui/storage/minecraft servers/abilities test/spigot-1.16.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Stormer/Documents/BuildTools/spigot-api-1.19-R0.1-SNAPSHOT-shaded.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
